@@ -1,0 +1,93 @@
+.application-form{
+	text-align: center;
+	padding-top: 3%;
+}
+h1{
+	font-family: Oswald;
+	font-size: 60px;
+	letter-spacing: 4px;
+}
+h2{
+	font-family: Oswald;
+	font-size: 15px;
+	color: #8D8E84;
+	letter-spacing: 3px;
+	padding-bottom: 25px;
+}
+
+
+h3{
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 6%;
+}
+h4{
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 1.5%;
+	padding-bottom: 2%
+}
+.form-control{
+	padding-right: 2.5%;
+	padding-left: 2.5%;
+	outline: none;
+}
+.d-flex{
+	display: flex !important;
+}
+.text-center{
+	text-align: center !important;
+}
+
+.form-group-inline{
+	margin-top: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
+	outline: none;
+}
+.form-distance{
+	outline: none;
+}
+@media (max-width: 992px){
+	.form-distance{
+	margin-top: 20px;
+	}
+}
+.form-control{
+	border-radius: 0px;
+}
+.card{
+	border: #CDCDC7;
+	text-align: center;
+	background: #DDECDD ;
+	color: #000000;
+	padding-left: 10px;
+	font-weight: bold;
+	font-size: 15px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.lastline{
+	background-color: #FFF8DC;
+	height:auto;
+	word-spacing: 2px;
+	margin-top: 25px;
+}
+h6{
+	color: black;
+	font-size: 15px;
+	text-align: center;
+}
+h6:hover{
+ 	text-decoration: bold;
+ 	text-align: center;
+ }
+.container-flex{
+	text-align: center;
+}

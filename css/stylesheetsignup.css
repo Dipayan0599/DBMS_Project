@@ -1,0 +1,39 @@
+body{
+	background: url(https://gumlet.assettype.com/nationalherald%2F2018-03%2Fd26c0b05-6199-4cd7-8d0b-14b9da2d805a%2Ff1c436b4-5ebf-4e4b-94be-6d3f83c175d6.jpg?rect=0%2C119%2C1024%2C576&auto=format%2Ccompress&w=1200);
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+}
+.form-horizontal{
+	padding-top: 3%;
+	width: 50%;
+	color: white;
+}
+.welcome{
+  align-content: center;
+	padding-top: 7%;
+	color: white;
+	font-size: 70px;
+	font-family: Lobster;
+}
+.lastline{
+	background-color: #FFF8DC;
+	height:auto;
+	width: 100%;
+	word-spacing: 2px;
+	position: fixed;
+	bottom: 0;
+}
+
+h6{
+	color: black;
+	font-size: 15px;
+	text-align: center;
+}
+h6:hover{
+ 	text-decoration: bold;
+ 	text-align: center;
+ }

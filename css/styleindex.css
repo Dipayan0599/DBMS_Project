@@ -1,0 +1,120 @@
+
+.navbar-header{
+	height: 50px;
+}
+.content{
+	background: url(https://d19m59y37dris4.cloudfront.net/sell/1-4/img/photo/matheus-ferrero-334418-unsplash.jpg);
+	background-position: center;
+	text-align: center;
+	padding-top: 13%;
+	height: 800px;
+	width: 100%;
+}
+.nda-tag{
+	background: url(https://m.hindustantimes.com/rf/image_size_1200x900/HT/p2/2019/05/10/Pictures/passing-out-parade_add7e02e-72d1-11e9-9308-6ffbdc5c45a7.jpg);
+	background-position: center;
+	text-align: center;
+	height: 350px;
+	width: 100%;
+	padding-top: 15%;
+}	
+.branch-tag{
+	background: url(https://www.thenewsminute.com/sites/default/files/styles/news_detail/public/Parliament-of-India_750.jpg?itok=7oLAftzv);
+	background-position: center;
+	text-align: center;
+	height: 350px;
+	width: 100%;
+	padding-top: 15%;
+}
+.lastline{
+	background-color: #FFF8DC;
+	height:auto;
+	word-spacing: 2px;
+	margin-top: 25px;
+}
+.h1{
+	color: white;
+	font-size: 100px;
+	font-family: serif;
+}
+h2{
+	color: white;
+	font-size: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.h3{
+	color: white;
+	font-size: 40px;
+	letter-spacing: 4px;
+}
+h3{
+	color: white;
+	font-weight: bold;
+	text-shadow: 3px 3px #ff751a;
+	font-size: 40px;
+	letter-spacing: .5px;
+}
+.h4{
+	color: #BADFF4;
+	font-size: 15px;
+}
+.h4:hover{
+	font-weight: 700;
+	color: #ffffff;
+}
+.h5{
+	color: white;
+	font-size: 25px;
+	letter-spacing: 8px;
+}
+h6{
+	color: black;
+	font-size: 15px;
+	text-align: center;
+}
+h6:hover{
+ 	text-decoration: bold;
+ 	text-align: center;
+ }
+.content-one{
+	background: url(https://www.indiastrategic.in/image/Navy_Vikram1.JPG);
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+	display: block;
+	text-align: center;
+	padding-top: 13%;
+	height: 80vh;
+	min-width: 100%;
+	background-repeat: no-repeat;
+	margin-bottom: 10px;
+}
+.content-two{
+	background: url(https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/12/777178-nepal-army-chief-president-kovind.jpg);
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+	display: block;
+	text-align: center;
+	padding-top: 13%;
+	height: 80vh;
+	min-width: 100%;
+	background-repeat: no-repeat;
+	margin-bottom: 10px;
+}
+.content-three{
+	background: url(https://pbs.twimg.com/media/Cw5KvjyWQAAzmKh.jpg);
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+	display: block;
+	text-align: center;
+	padding-top: 13%;
+	height: 80vh;
+	min-width: 100%;
+	background-repeat: no-repeat;
+	margin-bottom: 10px;
+}

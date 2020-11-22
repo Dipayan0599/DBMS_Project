@@ -1,0 +1,95 @@
+
+
+hr{
+	border: 1px white;
+}
+.navbar-header{
+	height: 50px;
+}
+.content{
+	background: url(https://d19m59y37dris4.cloudfront.net/sell/1-4/img/photo/matheus-ferrero-334418-unsplash.jpg);
+	background-position: center;
+	text-align: center;
+	padding-top: 13%;
+	height: 800px;
+	width: 100%;
+}
+.toppicks{
+	background: url(https://images.unsplash.com/photo-1541752171745-4176eee47556?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+	background-position: center;
+	text-align: center;
+	height: 500px;
+	width: 100%;
+	padding-top: 25%;
+	
+}
+.newarrival{
+	background: url(https://images.unsplash.com/photo-1494291314655-08fcd1f46cda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+	background-position: bottom-center;
+	text-align: center;
+	height: 500px;
+	width: 100%;
+	padding-top: 25%;
+}
+.jackets{
+	background: url(https://images.unsplash.com/photo-1495105787522-5334e3ffa0ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+	background-position: center;
+	text-align: center;
+	height: 350px;
+	width: 100%;
+	padding-top: 15%;
+}	
+.perfumes{
+	background: url(https://images.unsplash.com/photo-1523293182086-7651a899d37f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+	background-position: center;
+	text-align: center;
+	height: 350px;
+	width: 100%;
+	padding-top: 15%;
+}
+.trythis{
+	background: url(https://images.unsplash.com/photo-1520624061177-7f9b5bb733aa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+	background-position: center;
+	text-align: center;
+	height: 350px;
+	width: 100%;
+	padding-top: 15%;
+}
+.ship{
+	padding-top:25%;
+	height:400px;
+	width:100%;
+	text-align: center;
+}
+.lastline{
+	background-color: #FFF8DC;
+	height:50px;
+	word-spacing: 2px;
+}
+h1{
+	color: white;
+	font-size: 100px;
+	font-family: serif;
+}
+h2{
+	color: white;
+	font-size: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+	color: white;
+	font-size: 50px;
+}
+h4{
+	color: solid black;
+	font-size: 25px;
+}
+h5{
+	color: white;
+	font-size: 25px;
+	letter-spacing: 8px;
+}
+h6{
+	color: #8C8C92;
+	font-size: 15px;
+}

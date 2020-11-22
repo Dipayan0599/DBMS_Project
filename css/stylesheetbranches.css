@@ -1,0 +1,147 @@
+
+.navbar-header{
+	height: 50px;
+}
+.lastline{
+	background-color: #FFF8DC;
+	height:auto;
+	word-spacing: 2px;
+	margin-top: 25px;
+}
+.h1{
+	color: white;
+	font-size: 100px;
+	font-family: serif;
+}
+h2{
+	color: white;
+	font-size: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.h3{
+	color: white;
+	font-size: 40px;
+	letter-spacing: 4px;
+}
+h3{
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+	letter-spacing: .5px;
+}
+.h3{
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+	letter-spacing: .5px;
+}
+.h4{
+	color: #BADFF4;
+	font-size: 15px;
+}
+.h4:hover{
+	font-weight: 700;
+	color: #ffffff;
+}
+.h5{
+	color: white;
+	font-size: 25px;
+	letter-spacing: 8px;
+}
+h6{
+	color: black;
+	font-size: 15px;
+	text-align: center;
+}
+h6:hover{
+ 	text-decoration: bold;
+ 	text-align: center;
+ }
+ .army-tag{
+	background: url(https://i.pinimg.com/originals/7d/b1/f1/7db1f1ee7dfcb3795d4ef2db6b8bb3df.jpg);
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+	background-position: center;
+	text-align: center;
+	height: 350px;
+	width: 100%;
+	padding-top: 15%;
+}	
+.navy-tag{
+	background: url(https://media.architecturaldigest.in/wp-content/uploads/2017/12/navy-day-1366x768.jpg);
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+	background-position: center;
+	text-align: center;
+	height: 350px;
+	width: 100%;
+	padding-top: 15%;
+}
+.airforce-tag{
+	background: url(https://media.cntraveller.in/wp-content/uploads/2017/01/airforcewomenlead-1366x768.jpg);
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+	background-position: center;
+	text-align: center;
+	height: 350px;
+	width: 100%;
+	padding-top: 15%;
+}
+.raw-tag{
+	background: url(https://assets.thehansindia.com/h-upload/feeds/2019/06/26/189613-raw.jpg);
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+	background-position: center;
+	text-align: center;
+	height: 250px;
+	width: 100%;
+	padding-top: 15%;
+	margin-top: 15px;
+}
+.nia-tag{
+	background: url(https://static.theprint.in/wp-content/uploads/2020/05/NIA.jpg);
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+	background-position: center;
+	text-align: center;
+	height: 250px;
+	width: 100%;
+	padding-top: 15%;
+	margin-top: 15px;
+}
+.ib-tag{
+	background: url(https://static.toiimg.com/photo/68163162.cms);
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+	background-position: center;
+	text-align: center;
+	height: 250px;
+	width: 100%;
+	padding-top: 15%;
+	margin-top: 15px;
+}
+.drdo-tag{
+	background: url(https://www.drdo.gov.in/sites/default/files/inline-images/drdo.PNG);
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+
+	background-position: center;
+	text-align: center;
+	height: 250px;
+	width: 100%;
+	padding-top: 15%;
+	margin-top: 15px;
+}

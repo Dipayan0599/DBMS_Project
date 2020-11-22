@@ -1,0 +1,53 @@
+.navbar-header{
+	height: 50px;
+}
+.lastline{
+	background-color: #FFF8DC;
+	height:auto;
+	word-spacing: 2px;
+	margin-top: 25px;
+}
+.h1{
+	color: white;
+	font-size: 100px;
+	font-family: serif;
+}
+h2{
+	color: white;
+	font-size: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.h3{
+	color: white;
+	font-size: 40px;
+	letter-spacing: 4px;
+}
+h3{
+	color: white;
+	font-weight: bold;
+	text-shadow: 3px 3px #ff751a;
+	font-size: 40px;
+	letter-spacing: .5px;
+}
+.h4{
+	color: #BADFF4;
+	font-size: 15px;
+}
+.h4:hover{
+	font-weight: 700;
+	color: #ffffff;
+}
+.h5{
+	color: white;
+	font-size: 25px;
+	letter-spacing: 8px;
+}
+h6{
+	color: black;
+	font-size: 15px;
+	text-align: center;
+}
+h6:hover{
+ 	text-decoration: bold;
+ 	text-align: center;
+ }
