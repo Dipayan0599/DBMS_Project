@@ -1,16 +1,18 @@
 body{
-	background: url(https://gumlet.assettype.com/nationalherald%2F2018-03%2Fd26c0b05-6199-4cd7-8d0b-14b9da2d805a%2Ff1c436b4-5ebf-4e4b-94be-6d3f83c175d6.jpg?rect=0%2C119%2C1024%2C576&auto=format%2Ccompress&w=1200);
-	-webkit-background-size: cover;
+	background: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
+	/*-webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover;*/
     background-repeat: no-repeat;
-	height: 100%;
-	width: 100%;
+    background-size: auto;
 }
 .form-horizontal{
-	padding-top: 3%;
+	margin-top: 10%;
 	width: 50%;
 	color: white;
+}
+.signin-class{
+	margin-top: 10px;
 }
 .welcome{
   align-content: center;
@@ -36,4 +38,8 @@ h6{
 h6:hover{
  	text-decoration: bold;
  	text-align: center;
+ }
+ .btn-default{
+ 	background-color: #5BF509;
+ 	font-weight: 600;
  }
